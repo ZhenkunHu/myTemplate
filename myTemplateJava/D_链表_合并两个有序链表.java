@@ -1,7 +1,5 @@
 package myTemplateJava;
 
-import ABCDEF.A1;
-
 public class D_链表_合并两个有序链表 {
   public class ListNode {
     int val;

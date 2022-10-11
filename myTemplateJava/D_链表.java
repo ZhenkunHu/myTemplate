@@ -1,7 +1,5 @@
 package myTemplateJava;
 
-import ABCDEF.A1;
-
 import java.util.Scanner;
 
 public class D_链表 {
