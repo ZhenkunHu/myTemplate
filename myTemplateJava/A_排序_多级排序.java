@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
+/**
+ * 多级比较，比较器的逻辑
+ */
 public class A_排序_多级排序 {
   static class Node {
     char c;
