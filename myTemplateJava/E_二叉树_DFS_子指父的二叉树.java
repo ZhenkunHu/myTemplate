@@ -48,7 +48,7 @@ public class E_二叉树_DFS_子指父的二叉树 {
             left.parent = temp;
             temp = left;
             i++;
-          } else { //建立假结点，方便','的统一处理
+          } else { // 建立假结点，方便','的统一处理
             TreeNode left = new TreeNode('0');
             left.parent = temp;
             temp = left;
